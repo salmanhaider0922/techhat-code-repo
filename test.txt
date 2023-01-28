@@ -1,2 +1,10 @@
 econd file for edit
 test firle for myt sdefodsnfsdjkfskf
+
+echo"hellow world"
+uptime
+date
+top
+htop
+vmstat
+iostat
