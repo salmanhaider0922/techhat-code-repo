@@ -19,3 +19,6 @@
 
   - name: Using the debug module
     debug: msg="This is a DNS playbook"
+
+  - name: adding another statement
+    debug: msg="we are learning GIT"
