@@ -22,3 +22,6 @@
 
   - name: adding another statement
     debug: msg="we are learning GIT"
+
+  - name: adding 3rd debug module
+    debug: msg="we are learning git branching concept"
